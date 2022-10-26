@@ -1,0 +1,18 @@
+= Security Service Configurations
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+The way you configure and use this fictionalized security service depends on your silly implementation. 
+
+== Apply a Security Policy to the API Gateway
+
+You can apply a security policy to configure the API gateway capability
+
+See xref:apply-tokenization-policy-to-api.adoc[Apply a Security Policy to the API Gateway]
+
+== Expose Security as a Service to Your Apps
+
+When extra data processing is required, An can add business logic to send security requests directly to the security service as part of its processing. 
+
+See xref:tokenization-from-a-mule.adoc[Expose Security as a Service Directly to Applications]
