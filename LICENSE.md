@@ -1,1 +1,1 @@
-Apache 1.0
+Apache 2.0
