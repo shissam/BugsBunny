@@ -370,6 +370,11 @@ or `.md`. It will also detect these files in a directory named `LICENSES`.
 (Files in a `LICENSES` directory are typically named as their
 [SPDX](https://spdx.org/licenses/) license identifier followed by an
 appropriate file extension, as described in the [REUSE](https://reuse.software/spec/) Specification.)
+
+License Requirements:
+  - A detected `LICENSE`, `COPYRIGHT`, or `COPYING` filename (6/10 points)
+  - The detected file is at the top-level directory (3/10 points)
+  - A [FSF or OSI](https://spdx.org/licenses/) license is specified (1/10 points)
  
 
 **Remediation steps**
