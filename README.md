@@ -1,1 +1,1 @@
-# test of gpg key
+# test of 2nd (verified) gpg key
