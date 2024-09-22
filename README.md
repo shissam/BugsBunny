@@ -1,1 +1,1 @@
-# test of 2nd (verified) gpg key
+# test of co-workers (verified) gpg key
