@@ -1,7 +1,7 @@
 # Reporting Security Issues
 
-To report a security issue, please email
-[shissam@](mailto:nobody@nobody.com)
+To report a security issue (vulnerability or otherwise), please email
+[shissam](mailto:nobody@nobody.com) (or at https://github.com/shissam/BugsBunny)
 with a description of the issue, the steps you took to create the issue,
 affected versions, and, if known, mitigations for the issue.
 
